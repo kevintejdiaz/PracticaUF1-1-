@@ -1,0 +1,5 @@
+C:\Users\kevin\Desktop\Practica_UF1\PracticaUF1-1-\ProyectoC#\bin\Release\net8.0\publish\ProyectoC#.exe
+C:\Users\kevin\Desktop\Practica_UF1\PracticaUF1-1-\ProyectoC#\bin\Release\net8.0\publish\ProyectoC#.dll
+C:\Users\kevin\Desktop\Practica_UF1\PracticaUF1-1-\ProyectoC#\bin\Release\net8.0\publish\ProyectoC#.deps.json
+C:\Users\kevin\Desktop\Practica_UF1\PracticaUF1-1-\ProyectoC#\bin\Release\net8.0\publish\ProyectoC#.runtimeconfig.json
+C:\Users\kevin\Desktop\Practica_UF1\PracticaUF1-1-\ProyectoC#\bin\Release\net8.0\publish\ProyectoC#.pdb
